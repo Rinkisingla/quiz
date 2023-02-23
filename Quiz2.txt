@@ -1,0 +1,300 @@
+The practice of collecting into a single database data relevant
+ to a particular function, department, etc is known as?
+A. Data Mining
+B. Data Marting
+C. Data Warehousing
+D. Data Diddling
+
+B. Data Marting
+Category : Books And Authors
+
+The rules of a language is known as 
+
+A. Code
+B. Structure
+C. Procedure
+D. Syntax
+
+D. Syntax
+Category : Books And Authors
+
+Father of C programming language?
+
+A. Dennis Ritchie
+B. Prof Jhon Kemeny
+C. Thomas Kurtz
+D. Bill Gates
+
+A. Dennis Ritchie
+Category : Books And Authors
+
+SMPS stands for
+
+A. Switched mode power supply
+B. Start mode power supply
+C. Store mode power supply
+D. Single mode power supply
+
+A. Switched mode power supply
+Category : Books And Authors
+
+The lowest form of Computer language is called
+
+A. BASIC
+B. FORTRAN
+C. Machine Language
+D. COBOL
+
+C. Machine Language
+Category : Books And Authors
+
+Symantec is the maker of which among the following popular
+ antivirus software?
+A. Norton
+B. BitDefender
+C. Avast
+D. McAfee VirusScan
+
+A. Norton
+Category : Books And Authors
+
+News websites deliver customized ‘feeds’ of content to 
+their readers via RSS, which stands for :
+A. Really Simple Syndication
+B. Real Social Syndication
+C. Registered Subscriber Syndication
+D. Really Simple Synchronization
+
+A. Really Simple Syndication
+Category : Books And Authors
+
+If a computer has more than one processor then it is known as?
+
+A. Uniprocess
+B. Multiprocessor
+C. Multithreaded
+D. Multiprogramming
+
+B. Multiprocessor
+Category : Books And Authors
+ 
+Macintosh an Operating System is a product of ?
+
+A. Microsoft
+B. Apple
+C. Intel
+D. Google
+
+B. Apple
+Category : Books And Authors
+
+Which of the following are components of Central 
+Processing Unit (CPU)?
+A. Arithmetic logic unit, Mouse
+B. Arithmetic logic unit, Control unit
+C. Arithmetic logic unit, Integrated Circuits
+D. Control Unit, Monitor
+
+B. Arithmetic logic unit, Control unit
+Category : Books And Authors
+
+Full form of URL is?
+
+A. Uniform Resource Locator
+B. Uniform Resource Link
+C. Uniform Registered Link
+D. Unified Resource Link
+
+A. Uniform Resource Locator
+Category : Books And Authors
+
+The improvement of computer hardware theory is summarized 
+by which law.?
+A. Metcalf's law
+B. Bill's Law
+C. Moore's First Law
+D. Grove's law
+
+C. Moore's First Law
+Category : Books And Authors
+
+which software is used to do a particular task.
+
+A. Operating system
+B. Program
+C. Data
+D. Software
+
+B. Program
+Category : Books And Authors
+
+One kilobyte (KB) is equal to
+
+A. 1,000 bits
+B. 1,024 bytes
+C. 1,024 megabytes
+D. 1,024 gigabytes
+
+B) 1,024 bytes
+Category : Books And Authors
+
+UNIVAC is
+
+A. Universal Automatic Computer
+B. Universal Array Computer
+C. Unique Automatic Computer
+D. Unvalued Automatic Computer
+
+B. Universal Array Computer
+Category : Books And Authors
+
+The basic unit of a worksheet into which you enter 
+data in Excel is called a
+A. Tab
+B. Cell
+C. Box
+D. Range
+
+B. Cell
+Category : Books And Authors
+
+Information can be stored or retrieved from memory 
+location through its
+A. Value
+B. Input
+C. Variable declaration
+D. Address
+
+D. Address
+Category : Books And Authors
+
+What is a floppy disk used for
+
+A. To unlock the computer
+B. To store information
+C. To erase the computer screen
+D. To make the printer work
+
+A. To unlock the computer
+Category : Books And Authors
+
+A compact disc (CD) is a data storage system of the type:
+
+A. Optical
+B. Magnetic
+C. Electrical
+D. Electromechanical
+
+A. Optical
+Category : Books And Authors
+
+One nibble is equal to how many bits?
+
+A. 4 bits
+B. 8 bits
+C. 12 bits
+D. 16 bits
+
+A. 4 bits
+Category : Books And Authors
+
+NOS stands for 
+
+A. Node operating system
+B. Non-open software
+C. Network Operating system
+D. Non-operating software
+
+C. Network Operating system
+Category : Books And Authors
+
+A program that performs a useful task while simultaneously 
+allowing destructive acts is a 
+A. Worm
+B. Trojan horse
+C. Virus
+D. Macro virus
+
+B. Trojan horse
+Category : Books And Authors
+
+A storage area used to store data to a compensate for thedifference
+ in speed at which the different units can handle data is
+A. Memory
+B. Buffer
+C. Accumulator
+D. Address
+
+B. Buffer
+Category : Books And Authors
+
+The common name for the crime of stealing passwords is
+
+A. spooling
+B. identity theft
+C. spoofing
+D. hacking
+
+C. spoofing
+Category : Books And Authors
+
+Pedology is the science related to the study of
+
+A. atmosphere
+B. soil
+C. pollutants
+D. seeds
+
+B. soil
+Category : Books And Authors
+
+Who is the president of the Council of Scientific 
+and Industrial Research?
+A. President of India
+B. Vice-President of India
+C. Prime Minister of India
+D. Union Minister of Science and Technology
+
+C. Prime Minister of India
+Category : Books And Authors
+
+India's first satellite Aryabhata was launched from
+
+A. Soviet Union
+B. America
+C. India
+D. Israel
+
+A. Soviet Union
+Category : Books And Authors
+
+Google and NASA have joined hands to identify which two
+new planets around distant stars?
+A. Kepler 80g, Kepler 90i
+B. Kepler 90g, Kepler 80i
+C. Kepler 81g, Kepler 90i
+D. Kepler 90i, Kepler 82g
+
+B. Kepler 90g, Kepler 80i
+Category : Books And Authors
+
+Which project is a joint venture of India and France?
+
+A. Maitri Missile Project
+B. Nuclear missile project
+C. Cog missile project
+D. InFra missile project
+
+A. Maitri Missile Project
+Category : Books And Authors
+
+The optimum dissolved oxygen level (in mg/litre) required for 
+survival of aquatic organisms is
+A. 4-6
+B. 2-4
+C. 8-10
+D. 12-16
+
+A. 4-6
+Category : Books And Authors
+
